@@ -240,7 +240,7 @@ section.especialidades .flex {
     color: #fff;
     padding: 40px;
     border: 2px solid #fff;
-    margin-top: 45px;
+    margin: 45px auto 0 auto;
     border-radius: 25px;
     transition: 0.5s;
     max-width: 500px;
