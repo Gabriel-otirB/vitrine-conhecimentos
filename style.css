@@ -598,4 +598,13 @@ footer .btn-social button {
         text-align: center;
     }
 
+    footer .line-footer img a{
+        margin-top: 0px;
+    }
+
+    footer .btn-social button{
+        margin: 10px 10px;
+        text-align: center;
+    }
+
 }
