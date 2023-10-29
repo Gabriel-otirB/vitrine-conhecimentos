@@ -508,6 +508,7 @@ footer .btn-social button {
     .topo-do-site h1 {
         font-size: 35px;
         line-height: 37px;
+        text-align: inherit;
     }
 
     .topo-do-site p {
