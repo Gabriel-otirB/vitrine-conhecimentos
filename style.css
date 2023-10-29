@@ -538,6 +538,14 @@ footer .btn-social button {
         padding: 0px 8%;
     }
 
+    section.especialidades .especialidades-box{
+        text-align: center;
+    }
+
+    section.especialidades .especialidades-box p {
+        text-align: center;
+    }
+
     /*SOBRE*/
     section.sobre {
         padding: 50px 8%;
@@ -551,6 +559,10 @@ footer .btn-social button {
         font-size: 40px;
         line-height: 36px;
         text-align: center;
+    }
+
+    .sobre .txt-sobre p{ 
+        text-align: initial;
     }
 
     .btn-social {
