@@ -61,6 +61,12 @@ header {
     padding: 40px 4%;
 }
 
+header img {
+    box-shadow: 0 0 0 0;
+    border: 0 none;
+    outline: 0;
+}
+
 header>.interface {
     display: flex;
     align-items: center;
@@ -480,6 +486,10 @@ footer .btn-social button {
         flex-direction: column-reverse;
     }
 
+    .topo-do-site .flex-email {
+        flex-direction: column;
+    }
+
     h2.titulo {
         font-size: 35px;
         line-height: 37px;
@@ -493,6 +503,13 @@ footer .btn-social button {
 
     .btn-abrir-menu{
         display: block;
+    }
+
+    header img {
+        width: 80%;
+        box-shadow: 0 0 0 0;
+        border: 0 none;
+        outline: 0;
     }
 
     /*TOPO DO SITE */
@@ -613,6 +630,10 @@ footer .btn-social button {
 
     footer .line-footer img a{
         margin-top: 0px;
+    }
+
+    footer img{
+        width: 60%;
     }
 
     footer .btn-social button{
