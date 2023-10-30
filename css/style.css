@@ -58,12 +58,10 @@ html{
 
 /* ESTILO DO CABEÇALHO */
 header {
-    padding: 40px 4%;
+    padding: 0px 4%;
 }
 
 header img {
-    box-shadow: 0 0 0 0;
-    border: 0 none;
     outline: 0;
 }
 
