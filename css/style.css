@@ -252,7 +252,11 @@ section.especialidades .flex {
 
 .especialidades .especialidades-box p {
     font-size: 18px;
-    text-align: justify;
+    text-align: center;
+}
+
+section.especialidades .especialidades-box{
+    text-align: center;
 }
 
 .especialidades .especialidades-box span {
