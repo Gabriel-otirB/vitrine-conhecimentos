@@ -1,5 +1,6 @@
 /*CHAT BOT*/
     df-messenger {
+   width: auto; height: 50%; 
    --df-messenger-bot-message: #878fac;
    --df-messenger-button-titlebar-color: #ff8724;
    --df-messenger-chat-background-color: #fafafa;
